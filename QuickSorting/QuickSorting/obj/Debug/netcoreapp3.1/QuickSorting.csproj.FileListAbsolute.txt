@@ -1,0 +1,13 @@
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.exe
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.deps.json
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.runtimeconfig.json
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.runtimeconfig.dev.json
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.dll
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.pdb
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.csprojAssemblyReference.cache
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.AssemblyInfoInputs.cache
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.AssemblyInfo.cs
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.csproj.CoreCompileInputs.cache
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.dll
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.pdb
+C:\Users\fygi2\source\repos\QuickSorting\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.genruntimeconfig.cache
